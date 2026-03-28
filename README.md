@@ -37,8 +37,3 @@
 <img alt="divider" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" width="100%">
 
 </div>
-
-<h3 align="center">Recent Coding Time</h3>
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
