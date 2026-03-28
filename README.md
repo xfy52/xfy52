@@ -1,5 +1,5 @@
 <div align="center">
-
+<!-- Typing SVG -->
 <a href="https://git.io/typing-svg">
   <img alt="Typing" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=520&lines=console.log(%22Hello%2C%20World%22);愿今日温柔相伴%EF%BC%8C轻松且美好。&center=true&size=26">
 </a>
